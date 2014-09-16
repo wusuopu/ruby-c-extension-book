@@ -1,0 +1,5 @@
+# vim
+*.swp
+*.swo
+
+_book
